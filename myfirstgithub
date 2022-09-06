@@ -1,1 +1,4 @@
+git add .
+git commit -m "Adding GIF yo"
+git push
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
